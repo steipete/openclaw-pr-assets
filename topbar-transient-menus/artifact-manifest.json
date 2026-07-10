@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-10T07:02:22.850573Z",
+  "storage": {
+    "backend": "local",
+    "prefix": "openclaw/issues/103500/topbar-transient"
+  },
+  "files": [
+    {
+      "kind": "png",
+      "name": "07-topbar-menu-open.png",
+      "path": "07-topbar-menu-open.png",
+      "key": "openclaw/issues/103500/topbar-transient/07-topbar-menu-open.png",
+      "contentType": "image/png",
+      "size": 101608,
+      "sha256": "64bc459bdc6df78140e6dfa29f7bb6351108cde6db4325f34200afdf0c5d33f1",
+      "accessPolicy": "local"
+    },
+    {
+      "kind": "png",
+      "name": "08-drawer-with-menu-dismissed.png",
+      "path": "08-drawer-with-menu-dismissed.png",
+      "key": "openclaw/issues/103500/topbar-transient/08-drawer-with-menu-dismissed.png",
+      "contentType": "image/png",
+      "size": 68391,
+      "sha256": "aab16012076efbb1f6abb1368dab88a04f6dfcb1d7741231e3c13d293176a22b",
+      "accessPolicy": "local"
+    }
+  ]
+}
