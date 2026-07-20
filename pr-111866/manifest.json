@@ -1,0 +1,17 @@
+{
+  "pr": "111866",
+  "artifacts": [
+    {
+      "name": "collapsed.png",
+      "url": "https://raw.githubusercontent.com/steipete/openclaw-pr-assets/main/pr-111866/collapsed.png",
+      "sha256": "ec9e2af2d289ab69dfbb88a2ba9bbcc53a8ee0fc7d58f5f2c055b17d4d8ac9c1",
+      "bytes": 1006937
+    },
+    {
+      "name": "expanded.png",
+      "url": "https://raw.githubusercontent.com/steipete/openclaw-pr-assets/main/pr-111866/expanded.png",
+      "sha256": "ecda631ba6e7098e2635dcfde1af42378bbc9d809b134272ca0338b740ea6c98",
+      "bytes": 968778
+    }
+  ]
+}
