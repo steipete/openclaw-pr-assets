@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ui-chat-thread-completed-work-proof",
+  "title": "Control UI completed-work presentation proof",
+  "summary": "A visible Chromium session rendered one synthetic completed five-message transcript: dashboard sessions collapse intermediate commentary and tool work behind a Worked for rollup, while the main session keeps those rows expanded.",
+  "scenario": "ui-chat-thread-completed-work",
+  "comparison": {
+    "candidate": {
+      "sha": "af22da8ba9c8b526b68ced195852c6e5602330db",
+      "ref": "steipete/jovial-meitner-cb4027",
+      "expected": "Dashboard sessions collapse completed intermediate work; main sessions preserve it.",
+      "status": "pass",
+      "fixed": true
+    },
+    "pass": true
+  },
+  "artifacts": [
+    {
+      "kind": "desktopScreenshot",
+      "lane": "dashboard",
+      "label": "Dashboard completed-work rollup",
+      "path": "dashboard-rollup.png",
+      "targetPath": "dashboard-rollup.png",
+      "alt": "Dashboard chat thread with Worked for 5s and the final reply",
+      "inline": true,
+      "width": 900
+    },
+    {
+      "kind": "desktopScreenshot",
+      "lane": "main",
+      "label": "Main completed-work transcript",
+      "path": "main-expanded.png",
+      "targetPath": "main-expanded.png",
+      "alt": "Main chat thread with commentary and read tool row expanded",
+      "inline": true,
+      "width": 900
+    }
+  ]
+}
