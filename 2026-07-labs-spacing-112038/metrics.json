@@ -1,0 +1,28 @@
+{
+  "before": {
+    "titleToIntroPx": 44,
+    "introToSectionPx": 52,
+    "sectionToGroupPx": 34,
+    "introMarginTop": "12px",
+    "introMarginBottom": "12px",
+    "pageGap": "40px"
+  },
+  "after": {
+    "titleToIntroPx": 32,
+    "introToSectionPx": 20,
+    "sectionToGroupPx": 34,
+    "introMarginTop": "0px",
+    "introMarginBottom": "0px",
+    "pageGap": "20px"
+  },
+  "persisted": [
+    {
+      "label": "Code Mode",
+      "checked": true
+    },
+    {
+      "label": "Swarm",
+      "checked": true
+    }
+  ]
+}
